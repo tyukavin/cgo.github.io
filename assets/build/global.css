@@ -11281,7 +11281,7 @@ section img {
 .main-img {
   width: 100%;
   height: 60vh;
-  background-image: url("/assets/images/main.png");
+  background-image: url("../../assets/images/main.png");
   background-size: cover;
   background-position: center;
   margin-bottom: 65px;
@@ -11379,15 +11379,15 @@ section img {
 }
 
 .wrap-project__item--img-calc {
-  background-image: url("/assets/images/calc.png");
+  background-image: url("../../assets/images/calc.png");
 }
 
 .wrap-project__item--img-project {
-  background-image: url("/assets/images/img.png");
+  background-image: url("../../assets/images/img.png");
 }
 
 .wrap-project__item--img-sert {
-  background-image: url("/assets/images/img.png");
+  background-image: url("../../assets/images/img.png");
 }
 
 .wrap-more {
@@ -11471,7 +11471,7 @@ section img {
 
 .main-six form {
   padding: 30px;
-  background-image: url("/assets/images/bg-zakaz.png");
+  background-image: url("../../assets/images/bg-zakaz.png");
   background-color: #f2f2f2;
   width: 100%;
 }
